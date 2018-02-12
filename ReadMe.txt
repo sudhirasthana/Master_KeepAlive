@@ -1,0 +1,2 @@
+Application Used to Create - Delphi XE7
+Idea : To keep your system alive so it does not lock as the mouse will continue to move. The app will also tell you for how long your application is alive. It has a Stop and Play button to start or stop the application.

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/06/20 15:41:11.000.381,=C:\Users\dd250314\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/19 15:59:22.000.129,=C:\Users\dd250314\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/22 14:51:40.000.414,=C:\Users\dd250314\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/12 10:22:24.000.444,=C:\Users\dd250314\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/12 10:37:09.000.635,C:\Users\dd250314\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\dd250314\Documents\DelphiApps\MouseMove\Unit1.pas</Transaction>
+    <Transaction>2018/02/12 10:37:09.000.635,C:\Users\dd250314\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\dd250314\Documents\DelphiApps\MouseMove\Unit1.dfm</Transaction>
+    <Transaction>2018/02/12 10:37:33.000.313,C:\Users\dd250314\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\dd250314\Documents\DelphiApps\MouseMove\Project1.dproj</Transaction>
+    <Transaction>2018/02/12 13:14:19.000.284,C:\Users\dd250314\Documents\DelphiApps\MouseMove\Project1.dproj=C:\Users\dd250314\Documents\DelphiApps\MouseMove\KeepAlive.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
